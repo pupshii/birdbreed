@@ -1,0 +1,11 @@
+# Duplicate of figures/, tables/ and the report (original OneDrive download)
+OneDrive_*.zip
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+~$*
