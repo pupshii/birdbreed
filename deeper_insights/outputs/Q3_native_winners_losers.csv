@@ -1,0 +1,195 @@
+species_id,early,recent,name,rel,vs_typical
+546,14.22,5.14,Black-faced Woodswallow,0.36,-59.76
+358,10.37,3.95,White-backed Swallow,0.38,-57.58
+385,19.88,8.71,Hooded Robin,0.44,-51.21
+225,30.1,14.96,Little Eagle,0.5,-44.63
+380,16.91,8.73,Scarlet Robin,0.52,-42.51
+560,10.34,5.35,Red-browed Treecreeper,0.52,-42.32
+648,10.63,5.56,Horsfield's Bushlark,0.52,-41.75
+466,20.81,11.26,Southern Whiteface,0.54,-39.74
+416,31.32,18.29,Crested Shrike-tit,0.58,-34.96
+337,35.79,21.27,Pallid Cuckoo,0.59,-33.81
+549,31.54,18.76,Varied Sittella,0.59,-33.74
+260,21.93,13.3,Little Lorikeet,0.61,-32.42
+217,10.35,6.47,Musk Duck,0.63,-30.35
+9,13.15,8.24,Stubble Quail,0.63,-30.23
+647,68.43,43.1,Australasian Pipit,0.63,-29.84
+484,34.05,22.17,Buff-rumped Thornbill,0.65,-27.48
+369,53.25,35.01,Restless Flycatcher,0.66,-26.77
+221,30.12,19.84,Brown Goshawk,0.66,-26.62
+508,20.7,13.77,Brown Songlark,0.67,-25.92
+545,28.17,18.8,White-browed Woodswallow,0.67,-25.65
+359,54.6,36.47,Tree Martin,0.67,-25.59
+613,19.07,12.76,Fuscous Honeyeater,0.67,-25.48
+334,25.34,16.96,White-throated Needletail,0.67,-25.45
+342,29.43,19.75,Horsfield's Bronze-Cuckoo,0.67,-25.23
+547,53.35,36.18,Dusky Woodswallow,0.68,-24.46
+144,33.68,22.89,Black-fronted Dotterel,0.68,-24.3
+382,10.79,7.49,Flame Robin,0.69,-22.65
+470,40.46,28.15,Striated Thornbill,0.7,-22.49
+652,26.16,18.34,Diamond Firetail,0.7,-21.91
+481,13.75,9.64,Chestnut-rumped Thornbill,0.7,-21.9
+239,51.48,36.19,Brown Falcon,0.7,-21.69
+62,15.71,11.04,Hoary-headed Grebe,0.7,-21.67
+430,39.51,27.9,White-winged Triller,0.71,-21.33
+583,31.18,22.09,Brown-headed Honeyeater,0.71,-21.09
+377,53.43,37.99,Jacky Winter,0.71,-20.8
+344,29.76,21.26,Shining Bronze-Cuckoo,0.71,-20.42
+445,16.85,12.06,White-browed Babbler,0.72,-20.22
+274,30.43,21.9,Cockatiel,0.72,-19.84
+329,58.27,41.94,Rainbow Bee-eater,0.72,-19.83
+578,29.41,21.32,White-naped Honeyeater,0.72,-19.25
+317,13.2,9.77,Australian Owlet-nightjar,0.74,-17.58
+653,19.78,14.64,Zebra Finch,0.74,-17.57
+222,15.68,11.69,Collared Sparrowhawk,0.75,-16.95
+655,35.23,26.31,Double-barred Finch,0.75,-16.81
+339,19.85,14.88,Brush Cuckoo,0.75,-16.49
+182,31.21,23.41,Yellow-billed Spoonbill,0.75,-16.45
+619,13.11,9.85,Yellow-tufted Honeyeater,0.75,-16.31
+555,43.83,33.1,Brown Treecreeper,0.76,-15.86
+237,12.34,9.37,Peregrine Falcon,0.76,-15.46
+96,43.66,33.28,Great Cormorant,0.76,-15.08
+384,10.1,7.71,Rose Robin,0.76,-14.88
+240,77.01,58.88,Nankeen Kestrel,0.76,-14.83
+564,60.21,46.16,Mistletoebird,0.77,-14.59
+504,19.99,15.34,Speckled Warbler,0.77,-14.51
+360,52.75,40.8,Fairy Martin,0.77,-13.86
+192,16.53,12.98,Nankeen Night-Heron,0.79,-12.53
+268,14.74,11.6,Gang-gang Cockatoo,0.79,-12.34
+319,15.27,12.09,Azure Kingfisher,0.79,-11.82
+522,11.03,8.74,Little Grassbird,0.79,-11.81
+189,50.84,40.25,White-necked Heron,0.79,-11.81
+425,13.58,10.88,White-bellied Cuckoo-shrike,0.8,-10.78
+297,17.18,13.85,Blue Bonnet,0.81,-10.19
+242,29.06,23.43,Southern Boobook,0.81,-10.18
+203,31.63,25.54,Black Swan,0.81,-10.04
+125,21.58,17.56,Silver Gull,0.81,-9.35
+179,45.11,36.72,Australian White Ibis,0.81,-9.32
+525,19.26,15.76,Golden-headed Cisticola,0.82,-8.86
+350,18.45,15.12,Superb Lyrebird,0.82,-8.73
+429,19.41,15.97,Cicadabird,0.82,-8.34
+30,52.95,43.64,Peaceful Dove,0.82,-8.19
+509,47.27,39.03,Rufous Songlark,0.83,-8.02
+318,54.83,45.39,Dollarbird,0.83,-7.77
+313,22.52,18.66,Tawny Frogmouth,0.83,-7.73
+617,30.75,25.5,White-eared Honeyeater,0.83,-7.62
+338,45.18,37.71,Fan-tailed Cuckoo,0.83,-7.0
+486,72.23,60.64,Yellow-rumped Thornbill,0.84,-6.47
+381,22.36,18.83,Red-capped Robin,0.84,-6.19
+465,39.71,33.47,Weebill,0.84,-6.11
+56,42.88,36.58,Dusky Moorhen,0.85,-4.98
+362,22.66,19.37,Rufous Fantail,0.85,-4.77
+228,36.87,31.73,Whistling Kite,0.86,-4.13
+188,83.34,71.72,White-faced Heron,0.86,-4.13
+326,73.34,63.16,Sacred Kingfisher,0.86,-4.06
+635,19.06,16.47,Yellow-throated Miner,0.86,-3.76
+471,50.2,43.48,Yellow Thornbill,0.87,-3.51
+133,79.55,69.02,Masked Lapwing,0.87,-3.35
+265,11.18,9.72,Glossy Black-Cockatoo,0.87,-3.12
+211,54.61,47.53,Grey Teal,0.87,-3.04
+256,11.68,10.19,Scaly-breasted Lorikeet,0.87,-2.81
+453,45.55,39.8,White-throated Gerygone,0.87,-2.66
+543,18.59,16.26,White-breasted Woodswallow,0.87,-2.55
+574,61.33,53.87,Silvereye,0.88,-2.16
+224,54.06,47.77,Wedge-tailed Eagle,0.88,-1.57
+180,55.43,49.37,Straw-necked Ibis,0.89,-0.78
+631,14.27,12.71,New Holland Honeyeater,0.89,-0.77
+232,39.53,35.34,Black-shouldered Kite,0.89,-0.41
+365,33.66,30.21,Leaden Flycatcher,0.9,-0.0
+524,37.35,33.53,Australian Reed-Warbler,0.9,0.0
+463,22.31,20.05,Western Gerygone,0.9,0.08
+558,63.59,57.37,White-throated Treecreeper,0.9,0.5
+693,60.61,54.92,White-winged Chough,0.91,0.95
+106,34.65,31.41,Australian Pelican,0.91,0.99
+398,39.62,36.04,Golden Whistler,0.91,1.33
+536,32.17,29.38,Variegated Fairy-wren,0.91,1.73
+424,94.98,86.78,Black-faced Cuckoo-shrike,0.91,1.78
+488,47.46,43.57,White-browed Scrubwren,0.92,2.26
+646,36.02,33.07,Little Friarbird,0.92,2.27
+977,16.29,14.97,Cattle Egret,0.92,2.38
+295,57.95,53.42,Red-rumped Parrot,0.92,2.68
+115,10.48,9.66,Crested Tern,0.92,2.7
+976,77.53,71.61,Striated Pardalote,0.92,2.9
+373,18.66,17.26,Black-faced Monarch,0.92,3.03
+671,45.71,42.34,Olive-backed Oriole,0.93,3.19
+235,20.04,18.58,Australian Hobby,0.93,3.27
+208,82.66,76.76,Pacific Black Duck,0.93,3.45
+454,18.34,17.07,Brown Gerygone,0.93,3.66
+645,68.57,63.94,Noisy Friarbird,0.93,3.89
+401,82.84,77.66,Rufous Whistler,0.94,4.43
+357,94.2,88.78,Welcome Swallow,0.94,4.99
+586,19.93,18.81,Scarlet Honeyeater,0.94,5.15
+146,16.43,15.54,Black-winged Stilt,0.95,5.35
+662,54.47,51.53,Red-browed Finch,0.95,5.38
+565,53.57,50.68,Spotted Pardalote,0.95,5.38
+392,59.94,56.76,Eastern Yellow Robin,0.95,5.49
+61,54.11,51.35,Australasian Grebe,0.95,5.7
+100,57.34,54.46,Little Pied Cormorant,0.95,5.8
+99,16.1,15.33,Pied Cormorant,0.95,6.08
+322,93.27,89.03,Laughing Kookaburra,0.95,6.33
+625,54.11,51.73,White-plumed Honeyeater,0.96,6.5
+288,78.69,75.38,Eastern Rosella,0.96,6.71
+349,12.65,12.14,Pheasant Coucal,0.96,6.9
+44,20.26,19.44,Wonga Pigeon,0.96,6.92
+408,84.74,81.37,Grey Shrike-thrush,0.96,6.97
+415,94.23,90.51,Magpie-lark,0.96,7.0
+364,95.78,92.23,Willie Wagtail,0.96,7.26
+591,41.48,40.0,Eastern Spinebill,0.96,7.44
+202,83.84,80.97,Australian Wood Duck,0.97,7.58
+634,77.31,74.97,Noisy Miner,0.97,8.03
+614,57.49,55.95,Yellow-faced Honeyeater,0.97,8.4
+930,84.98,82.87,Australian Raven,0.98,8.63
+475,48.99,48.14,Brown Thornbill,0.98,9.46
+282,50.88,50.22,Crimson Rosella,0.99,9.95
+705,98.4,97.16,Australian Magpie,0.99,10.0
+605,29.06,28.78,Lewin's Honeyeater,0.99,10.32
+529,81.66,81.15,Superb Fairy-wren,0.99,10.71
+273,86.7,86.17,Galah,0.99,10.72
+421,31.91,31.75,Eastern Whipbird,0.99,10.83
+694,70.5,70.15,Pied Currawong,1.0,10.84
+226,17.63,17.59,White-bellied Sea-Eagle,1.0,11.11
+1,15.63,15.61,Emu,1.0,11.3
+59,33.86,33.96,Eurasian Coot,1.0,11.73
+361,75.74,75.99,Grey Fantail,1.0,11.76
+675,28.77,28.94,Apostlebird,1.01,12.07
+219,9.98,10.11,Swamp Harrier,1.01,12.78
+181,18.85,19.1,Royal Spoonbill,1.01,12.89
+34,37.88,38.48,Common Bronzewing,1.02,13.17
+187,29.12,29.65,Great Egret,1.02,13.42
+43,77.43,79.81,Crested Pigeon,1.03,14.82
+58,28.65,29.59,Purple Swamphen,1.03,15.04
+28,10.73,11.19,White-headed Pigeon,1.04,16.12
+269,63.32,66.19,Sulphur-crested Cockatoo,1.05,16.45
+29,14.99,15.79,Brown Cuckoo-Dove,1.05,17.34
+679,29.08,30.65,Satin Bowerbird,1.05,17.4
+585,27.07,28.58,Striped Honeyeater,1.06,17.62
+700,61.06,64.74,Pied Butcherbird,1.06,18.1
+212,11.32,12.03,Australasian Shoveler,1.06,18.32
+638,47.52,50.63,Red Wattlebird,1.07,18.69
+97,39.26,42.16,Little Black Cormorant,1.07,19.6
+210,13.89,14.92,Chestnut Teal,1.07,19.73
+267,28.62,30.82,Yellow-tailed Black-Cockatoo,1.08,19.97
+186,11.13,12.0,Intermediate Egret,1.08,20.14
+702,67.75,73.42,Grey Butcherbird,1.08,20.72
+281,40.06,43.46,Australian King-Parrot,1.09,20.87
+443,24.29,26.46,Grey-crowned Babbler,1.09,21.31
+633,12.8,13.95,Bell Miner,1.09,21.44
+640,24.02,26.21,Spiny-cheeked Honeyeater,1.09,21.54
+348,20.71,22.66,Channel-billed Cuckoo,1.09,21.91
+280,9.29,10.22,Red-winged Parrot,1.1,22.48
+213,9.47,10.47,Pink-eared Duck,1.11,23.19
+637,14.57,16.14,Little Wattlebird,1.11,23.42
+32,21.27,24.6,Bar-shouldered Dove,1.16,28.85
+229,11.39,13.21,Black Kite,1.16,29.25
+954,24.77,28.93,Little Raven,1.17,30.11
+347,22.11,25.82,Eastern Koel,1.17,30.12
+101,21.55,25.89,Australasian Darter,1.2,33.86
+258,10.77,13.11,Musk Lorikeet,1.22,35.55
+641,26.37,32.21,Blue-faced Honeyeater,1.22,36.08
+692,17.45,21.33,Torresian Crow,1.22,36.16
+597,13.46,16.65,Brown Honeyeater,1.24,37.85
+432,12.35,15.34,Australasian Figbird,1.24,38.34
+10,11.72,14.75,Brown Quail,1.26,40.24
+254,22.62,29.99,Rainbow Lorikeet,1.33,47.72
+215,22.32,29.67,Hardhead,1.33,48.09
+271,11.9,28.97,Little Corella,2.43,171.16

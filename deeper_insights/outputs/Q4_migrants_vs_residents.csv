@@ -1,0 +1,195 @@
+species_id,early,recent,name,vs_typical,group
+1,15.63,15.61,Emu,11.3,Other residents
+9,13.15,8.24,Stubble Quail,-30.23,Other residents
+10,11.72,14.75,Brown Quail,40.24,Other residents
+28,10.73,11.19,White-headed Pigeon,16.12,Other residents
+29,14.99,15.79,Brown Cuckoo-Dove,17.34,Other residents
+30,52.95,43.64,Peaceful Dove,-8.19,Other residents
+32,21.27,24.6,Bar-shouldered Dove,28.85,Other residents
+34,37.88,38.48,Common Bronzewing,13.17,Other residents
+43,77.43,79.81,Crested Pigeon,14.82,Other residents
+44,20.26,19.44,Wonga Pigeon,6.92,Other residents
+56,42.88,36.58,Dusky Moorhen,-4.98,Other residents
+58,28.65,29.59,Purple Swamphen,15.04,Other residents
+59,33.86,33.96,Eurasian Coot,11.73,Other residents
+61,54.11,51.35,Australasian Grebe,5.7,Other residents
+62,15.71,11.04,Hoary-headed Grebe,-21.67,Other residents
+96,43.66,33.28,Great Cormorant,-15.08,Other residents
+97,39.26,42.16,Little Black Cormorant,19.6,Other residents
+99,16.1,15.33,Pied Cormorant,6.08,Other residents
+100,57.34,54.46,Little Pied Cormorant,5.8,Other residents
+101,21.55,25.89,Australasian Darter,33.86,Other residents
+106,34.65,31.41,Australian Pelican,0.99,Other residents
+115,10.48,9.66,Crested Tern,2.7,Other residents
+125,21.58,17.56,Silver Gull,-9.35,Other residents
+133,79.55,69.02,Masked Lapwing,-3.35,Other residents
+144,33.68,22.89,Black-fronted Dotterel,-24.3,Other residents
+146,16.43,15.54,Black-winged Stilt,5.35,Other residents
+179,45.11,36.72,Australian White Ibis,-9.32,Other residents
+180,55.43,49.37,Straw-necked Ibis,-0.78,Other residents
+181,18.85,19.1,Royal Spoonbill,12.89,Other residents
+182,31.21,23.41,Yellow-billed Spoonbill,-16.45,Other residents
+186,11.13,12.0,Intermediate Egret,20.14,Other residents
+187,29.12,29.65,Great Egret,13.42,Other residents
+188,83.34,71.72,White-faced Heron,-4.13,Other residents
+189,50.84,40.25,White-necked Heron,-11.81,Other residents
+192,16.53,12.98,Nankeen Night-Heron,-12.53,Other residents
+202,83.84,80.97,Australian Wood Duck,7.58,Other residents
+203,31.63,25.54,Black Swan,-10.04,Other residents
+208,82.66,76.76,Pacific Black Duck,3.45,Other residents
+210,13.89,14.92,Chestnut Teal,19.73,Other residents
+211,54.61,47.53,Grey Teal,-3.04,Other residents
+212,11.32,12.03,Australasian Shoveler,18.32,Other residents
+213,9.47,10.47,Pink-eared Duck,23.19,Other residents
+215,22.32,29.67,Hardhead,48.09,Other residents
+217,10.35,6.47,Musk Duck,-30.35,Other residents
+219,9.98,10.11,Swamp Harrier,12.78,Other residents
+221,30.12,19.84,Brown Goshawk,-26.62,Other residents
+222,15.68,11.69,Collared Sparrowhawk,-16.95,Other residents
+224,54.06,47.77,Wedge-tailed Eagle,-1.57,Other residents
+225,30.1,14.96,Little Eagle,-44.63,Other residents
+226,17.63,17.59,White-bellied Sea-Eagle,11.11,Other residents
+228,36.87,31.73,Whistling Kite,-4.13,Other residents
+229,11.39,13.21,Black Kite,29.25,Other residents
+232,39.53,35.34,Black-shouldered Kite,-0.41,Other residents
+235,20.04,18.58,Australian Hobby,3.27,Other residents
+237,12.34,9.37,Peregrine Falcon,-15.46,Other residents
+239,51.48,36.19,Brown Falcon,-21.69,Other residents
+240,77.01,58.88,Nankeen Kestrel,-14.83,Other residents
+242,29.06,23.43,Southern Boobook,-10.18,Other residents
+254,22.62,29.99,Rainbow Lorikeet,47.72,Other residents
+256,11.68,10.19,Scaly-breasted Lorikeet,-2.81,Other residents
+258,10.77,13.11,Musk Lorikeet,35.55,Other residents
+260,21.93,13.3,Little Lorikeet,-32.42,Other residents
+265,11.18,9.72,Glossy Black-Cockatoo,-3.12,Other residents
+267,28.62,30.82,Yellow-tailed Black-Cockatoo,19.97,Other residents
+268,14.74,11.6,Gang-gang Cockatoo,-12.34,Other residents
+269,63.32,66.19,Sulphur-crested Cockatoo,16.45,Other residents
+271,11.9,28.97,Little Corella,171.16,Other residents
+273,86.7,86.17,Galah,10.72,Other residents
+274,30.43,21.9,Cockatiel,-19.84,Other residents
+280,9.29,10.22,Red-winged Parrot,22.48,Other residents
+281,40.06,43.46,Australian King-Parrot,20.87,Other residents
+282,50.88,50.22,Crimson Rosella,9.95,Other residents
+288,78.69,75.38,Eastern Rosella,6.71,Other residents
+295,57.95,53.42,Red-rumped Parrot,2.68,Other residents
+297,17.18,13.85,Blue Bonnet,-10.19,Other residents
+313,22.52,18.66,Tawny Frogmouth,-7.73,Other residents
+317,13.2,9.77,Australian Owlet-nightjar,-17.58,Other residents
+318,54.83,45.39,Dollarbird,-7.77,Summer migrants
+319,15.27,12.09,Azure Kingfisher,-11.82,Other residents
+322,93.27,89.03,Laughing Kookaburra,6.33,Other residents
+326,73.34,63.16,Sacred Kingfisher,-4.06,Summer migrants
+329,58.27,41.94,Rainbow Bee-eater,-19.83,Summer migrants
+334,25.34,16.96,White-throated Needletail,-25.45,Other residents
+337,35.79,21.27,Pallid Cuckoo,-33.81,Summer migrants
+338,45.18,37.71,Fan-tailed Cuckoo,-7.0,Summer migrants
+339,19.85,14.88,Brush Cuckoo,-16.49,Summer migrants
+342,29.43,19.75,Horsfield's Bronze-Cuckoo,-25.23,Summer migrants
+344,29.76,21.26,Shining Bronze-Cuckoo,-20.42,Summer migrants
+347,22.11,25.82,Eastern Koel,30.12,Summer migrants
+348,20.71,22.66,Channel-billed Cuckoo,21.91,Summer migrants
+349,12.65,12.14,Pheasant Coucal,6.9,Other residents
+350,18.45,15.12,Superb Lyrebird,-8.73,Other residents
+357,94.2,88.78,Welcome Swallow,4.99,Resident insect-eaters
+358,10.37,3.95,White-backed Swallow,-57.58,Resident insect-eaters
+359,54.6,36.47,Tree Martin,-25.59,Summer migrants
+360,52.75,40.8,Fairy Martin,-13.86,Summer migrants
+361,75.74,75.99,Grey Fantail,11.76,Resident insect-eaters
+362,22.66,19.37,Rufous Fantail,-4.77,Summer migrants
+364,95.78,92.23,Willie Wagtail,7.26,Resident insect-eaters
+365,33.66,30.21,Leaden Flycatcher,-0.0,Summer migrants
+369,53.25,35.01,Restless Flycatcher,-26.77,Resident insect-eaters
+373,18.66,17.26,Black-faced Monarch,3.03,Summer migrants
+377,53.43,37.99,Jacky Winter,-20.8,Resident insect-eaters
+380,16.91,8.73,Scarlet Robin,-42.51,Resident insect-eaters
+381,22.36,18.83,Red-capped Robin,-6.19,Resident insect-eaters
+382,10.79,7.49,Flame Robin,-22.65,Other residents
+384,10.1,7.71,Rose Robin,-14.88,Other residents
+385,19.88,8.71,Hooded Robin,-51.21,Resident insect-eaters
+392,59.94,56.76,Eastern Yellow Robin,5.49,Resident insect-eaters
+398,39.62,36.04,Golden Whistler,1.33,Resident insect-eaters
+401,82.84,77.66,Rufous Whistler,4.43,Other residents
+408,84.74,81.37,Grey Shrike-thrush,6.97,Resident insect-eaters
+415,94.23,90.51,Magpie-lark,7.0,Resident insect-eaters
+416,31.32,18.29,Crested Shrike-tit,-34.96,Resident insect-eaters
+421,31.91,31.75,Eastern Whipbird,10.83,Resident insect-eaters
+424,94.98,86.78,Black-faced Cuckoo-shrike,1.78,Other residents
+425,13.58,10.88,White-bellied Cuckoo-shrike,-10.78,Other residents
+429,19.41,15.97,Cicadabird,-8.34,Summer migrants
+430,39.51,27.9,White-winged Triller,-21.33,Summer migrants
+432,12.35,15.34,Australasian Figbird,38.34,Other residents
+443,24.29,26.46,Grey-crowned Babbler,21.31,Resident insect-eaters
+445,16.85,12.06,White-browed Babbler,-20.22,Resident insect-eaters
+453,45.55,39.8,White-throated Gerygone,-2.66,Summer migrants
+454,18.34,17.07,Brown Gerygone,3.66,Other residents
+463,22.31,20.05,Western Gerygone,0.08,Other residents
+465,39.71,33.47,Weebill,-6.11,Resident insect-eaters
+466,20.81,11.26,Southern Whiteface,-39.74,Resident insect-eaters
+470,40.46,28.15,Striated Thornbill,-22.49,Resident insect-eaters
+471,50.2,43.48,Yellow Thornbill,-3.51,Resident insect-eaters
+475,48.99,48.14,Brown Thornbill,9.46,Resident insect-eaters
+481,13.75,9.64,Chestnut-rumped Thornbill,-21.9,Resident insect-eaters
+484,34.05,22.17,Buff-rumped Thornbill,-27.48,Resident insect-eaters
+486,72.23,60.64,Yellow-rumped Thornbill,-6.47,Resident insect-eaters
+488,47.46,43.57,White-browed Scrubwren,2.26,Resident insect-eaters
+504,19.99,15.34,Speckled Warbler,-14.51,Resident insect-eaters
+508,20.7,13.77,Brown Songlark,-25.92,Summer migrants
+509,47.27,39.03,Rufous Songlark,-8.02,Summer migrants
+522,11.03,8.74,Little Grassbird,-11.81,Other residents
+524,37.35,33.53,Australian Reed-Warbler,0.0,Summer migrants
+525,19.26,15.76,Golden-headed Cisticola,-8.86,Other residents
+529,81.66,81.15,Superb Fairy-wren,10.71,Resident insect-eaters
+536,32.17,29.38,Variegated Fairy-wren,1.73,Resident insect-eaters
+543,18.59,16.26,White-breasted Woodswallow,-2.55,Other residents
+545,28.17,18.8,White-browed Woodswallow,-25.65,Summer migrants
+546,14.22,5.14,Black-faced Woodswallow,-59.76,Resident insect-eaters
+547,53.35,36.18,Dusky Woodswallow,-24.46,Summer migrants
+549,31.54,18.76,Varied Sittella,-33.74,Resident insect-eaters
+555,43.83,33.1,Brown Treecreeper,-15.86,Resident insect-eaters
+558,63.59,57.37,White-throated Treecreeper,0.5,Resident insect-eaters
+560,10.34,5.35,Red-browed Treecreeper,-42.32,Resident insect-eaters
+564,60.21,46.16,Mistletoebird,-14.59,Other residents
+565,53.57,50.68,Spotted Pardalote,5.38,Resident insect-eaters
+574,61.33,53.87,Silvereye,-2.16,Other residents
+578,29.41,21.32,White-naped Honeyeater,-19.25,Other residents
+583,31.18,22.09,Brown-headed Honeyeater,-21.09,Other residents
+585,27.07,28.58,Striped Honeyeater,17.62,Other residents
+586,19.93,18.81,Scarlet Honeyeater,5.15,Other residents
+591,41.48,40.0,Eastern Spinebill,7.44,Other residents
+597,13.46,16.65,Brown Honeyeater,37.85,Other residents
+605,29.06,28.78,Lewin's Honeyeater,10.32,Other residents
+613,19.07,12.76,Fuscous Honeyeater,-25.48,Other residents
+614,57.49,55.95,Yellow-faced Honeyeater,8.4,Other residents
+617,30.75,25.5,White-eared Honeyeater,-7.62,Other residents
+619,13.11,9.85,Yellow-tufted Honeyeater,-16.31,Other residents
+625,54.11,51.73,White-plumed Honeyeater,6.5,Other residents
+631,14.27,12.71,New Holland Honeyeater,-0.77,Other residents
+633,12.8,13.95,Bell Miner,21.44,Other residents
+634,77.31,74.97,Noisy Miner,8.03,Other residents
+635,19.06,16.47,Yellow-throated Miner,-3.76,Other residents
+637,14.57,16.14,Little Wattlebird,23.42,Other residents
+638,47.52,50.63,Red Wattlebird,18.69,Other residents
+640,24.02,26.21,Spiny-cheeked Honeyeater,21.54,Other residents
+641,26.37,32.21,Blue-faced Honeyeater,36.08,Other residents
+645,68.57,63.94,Noisy Friarbird,3.89,Other residents
+646,36.02,33.07,Little Friarbird,2.27,Other residents
+647,68.43,43.1,Australasian Pipit,-29.84,Resident insect-eaters
+648,10.63,5.56,Horsfield's Bushlark,-41.75,Other residents
+652,26.16,18.34,Diamond Firetail,-21.91,Other residents
+653,19.78,14.64,Zebra Finch,-17.57,Other residents
+655,35.23,26.31,Double-barred Finch,-16.81,Other residents
+662,54.47,51.53,Red-browed Finch,5.38,Other residents
+671,45.71,42.34,Olive-backed Oriole,3.19,Summer migrants
+675,28.77,28.94,Apostlebird,12.07,Resident insect-eaters
+679,29.08,30.65,Satin Bowerbird,17.4,Other residents
+692,17.45,21.33,Torresian Crow,36.16,Other residents
+693,60.61,54.92,White-winged Chough,0.95,Resident insect-eaters
+694,70.5,70.15,Pied Currawong,10.84,Other residents
+700,61.06,64.74,Pied Butcherbird,18.1,Other residents
+702,67.75,73.42,Grey Butcherbird,20.72,Other residents
+705,98.4,97.16,Australian Magpie,10.0,Other residents
+930,84.98,82.87,Australian Raven,8.63,Other residents
+954,24.77,28.93,Little Raven,30.11,Other residents
+976,77.53,71.61,Striated Pardalote,2.9,Resident insect-eaters
+977,16.29,14.97,Cattle Egret,2.38,Other residents
