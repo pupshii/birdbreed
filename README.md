@@ -12,9 +12,10 @@ insights notebook built around five research questions on preventing species dec
 | `client_insights/outputs/` | Generated PDF report, chart PNGs and result tables (CSV) |
 | `deeper_insights/Hidden_Pressures_Five_Questions.ipynb` | Five further questions: Noisy Miners, introduced birds, native winners and losers, migrants, priority breeding squares; also builds its own client PDF |
 | `deeper_insights/outputs/` | `Hidden_Pressures_Report.pdf`, chart PNGs and result tables (CSV) |
-| `decline_patterns/Continuing_Declines_Two_Questions.ipynb` | Which species are continuing to decline, and whether declines are concentrated by region, habitat or ecological group; builds its own client PDF |
-| `decline_patterns/species_traits_provisional.csv` | Provisional diet, habitat, nest, movement and size traits used by that notebook (check against the team trait table) |
-| `decline_patterns/outputs/` | `Continuing_Declines_Report.pdf`, chart PNGs and result tables (CSV) |
+| `decline_patterns/Q1_Continuing_Declines.ipynb` | Which species, if any, are continuing to decline; builds `outputs/Q1_Continuing_Declines.pdf` |
+| `decline_patterns/Q2_Decline_Concentration.ipynb` | Whether declines are concentrated in particular regions, habitats or ecological groups; builds `outputs/Q2_Decline_Concentration.pdf` |
+| `decline_patterns/species_traits_provisional.csv` | Provisional diet, habitat, nest, movement and size traits used by the Q2 notebook (check against the team trait table) |
+| `decline_patterns/outputs/` | The two PDFs, chart PNGs and result tables (CSV) |
 | `figures/`, `tables/` | Team's Week 9 figures and Excel tables |
 | `Combined_Breeding_Analysis_Progress_Report_Section.docx` | Team's progress report section |
 | `README.txt`, `README_combined_data.txt` | Data notes and agreed analysis rules |
@@ -37,10 +38,11 @@ The second notebook runs the same way (about 45 seconds) and writes
 jupyter notebook deeper_insights/Hidden_Pressures_Five_Questions.ipynb
 ```
 
-The third notebook (about 2 minutes) writes `decline_patterns/outputs/Continuing_Declines_Report.pdf`:
+The two `decline_patterns` notebooks (about 2 minutes each) write one PDF each to `decline_patterns/outputs/`:
 
 ```bash
-jupyter notebook decline_patterns/Continuing_Declines_Two_Questions.ipynb
+jupyter notebook decline_patterns/Q1_Continuing_Declines.ipynb
+jupyter notebook decline_patterns/Q2_Decline_Concentration.ipynb
 ```
 
 ## Data handling
