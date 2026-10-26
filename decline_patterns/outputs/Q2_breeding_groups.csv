@@ -1,0 +1,19 @@
+trait,group,n,median,lo,hi,n_cont
+Main habitat,Coast & sea,12,44.26,-21.13,88.53,0
+Main habitat,Forest,46,5.3,-20.37,31.2,0
+Main habitat,Grassland & open,38,-7.56,-35.56,26.09,2
+Main habitat,Shrubland & heath,19,-0.05,-45.07,87.93,0
+Main habitat,Towns & farms,7,37.61,12.02,67.07,0
+Main habitat,Wetlands,47,11.05,-29.77,32.54,5
+Main habitat,Woodland,80,-12.9,-23.36,7.56,6
+Main diet,Fish & aquatic animals,23,-14.35,-70.83,11.05,4
+Main diet,Fruit,9,-26.76,-34.25,70.59,1
+Main diet,Insects,105,-17.68,-25.0,-1.44,6
+Main diet,Meat (vertebrates),19,1.83,-22.9,28.06,0
+Main diet,Nectar,24,4.19,-25.53,43.65,1
+Main diet,Omnivore,27,42.1,-1.41,80.8,0
+Main diet,Plants,7,72.24,-37.05,109.44,0
+Main diet,Seeds,35,34.35,7.55,67.76,1
+Movement,Nomadic or part-migrant,65,-5.51,-35.44,8.9,6
+Movement,Resident,150,7.01,-3.83,21.15,3
+Movement,Summer migrant,34,-20.3,-32.69,23.35,4

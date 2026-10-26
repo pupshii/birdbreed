@@ -12,10 +12,11 @@ insights notebook built around five research questions on preventing species dec
 | `client_insights/outputs/` | Generated PDF report, chart PNGs and result tables (CSV) |
 | `deeper_insights/Hidden_Pressures_Five_Questions.ipynb` | Five further questions: Noisy Miners, introduced birds, native winners and losers, migrants, priority breeding squares; also builds its own client PDF |
 | `deeper_insights/outputs/` | `Hidden_Pressures_Report.pdf`, chart PNGs and result tables (CSV) |
-| `decline_patterns/Q1_Continuing_Declines.ipynb` | Which species, if any, are continuing to decline; builds `outputs/Q1_Continuing_Declines.pdf` |
-| `decline_patterns/Q2_Decline_Concentration.ipynb` | Whether declines are concentrated in particular regions, habitats or ecological groups; builds `outputs/Q2_Decline_Concentration.pdf` |
+| `decline_patterns/Q1_Continuing_Declines.ipynb` | Which species, if any, are continuing to decline in breeding (1977–1999, 2000–2009, 2010–2020); builds `outputs/Q1_Continuing_Declines.pdf` |
+| `decline_patterns/Q2_Decline_Concentration.ipynb` | Whether breeding declines are concentrated in particular regions, habitats or ecological groups; builds `outputs/Q2_Decline_Concentration.pdf` |
 | `decline_patterns/species_traits_provisional.csv` | Provisional diet, habitat, nest, movement and size traits used by the Q2 notebook (check against the team trait table) |
-| `decline_patterns/outputs/` | The two PDFs, chart PNGs and result tables (CSV) |
+| `decline_patterns/outputs/` | The two one-page PDFs, chart PNGs and result tables (CSV) |
+| `decline_patterns/Response_to_supervisor_comments.md` | How the reports answer the supervisor's comments |
 | `figures/`, `tables/` | Team's Week 9 figures and Excel tables |
 | `Combined_Breeding_Analysis_Progress_Report_Section.docx` | Team's progress report section |
 | `README.txt`, `README_combined_data.txt` | Data notes and agreed analysis rules |
